@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1725711464 source:c:\users\intel\desktop\mou\main.c
+	<stdio.h>
+	<stdlib.h>
+
